@@ -1,0 +1,14 @@
+a = 6
+a += 3
+print(a)
+
+a = 7
+a -= 2
+print(a)
+
+d = 5 < 4
+print(d)
+
+# Logical Operators
+
+e = True or False

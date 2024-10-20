@@ -1,0 +1,5 @@
+a = int(input("Enter the first Number:"))
+b = int(input("Enter the Second Number:"))
+c = int(input("Enter the Second Number:"))
+d = int(input("Enter the Second Number:"))
+print("The average of this number", (a+b+c+d)/2)
